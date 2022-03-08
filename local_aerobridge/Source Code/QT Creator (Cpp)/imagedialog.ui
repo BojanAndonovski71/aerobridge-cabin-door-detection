@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>ImageDialog</class>
+ <widget class="QDialog" name="ImageDialog">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1920</width>
+    <height>1080</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QPushButton" name="prevImage">
+   <property name="geometry">
+    <rect>
+     <x>640</x>
+     <y>10</y>
+     <width>75</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>&lt;&lt;</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="nextImage">
+   <property name="geometry">
+    <rect>
+     <x>920</x>
+     <y>10</y>
+     <width>75</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>&gt;&gt;</string>
+   </property>
+  </widget>
+  <widget class="QGraphicsView" name="graphicsView">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1922</width>
+     <height>1083</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="resetImage">
+   <property name="geometry">
+    <rect>
+     <x>780</x>
+     <y>10</y>
+     <width>75</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Reset</string>
+   </property>
+  </widget>
+  <widget class="QComboBox" name="feature">
+   <property name="geometry">
+    <rect>
+     <x>470</x>
+     <y>10</y>
+     <width>130</width>
+     <height>22</height>
+    </rect>
+   </property>
+   <item>
+    <property name="text">
+     <string>Eliptical Window</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Rectangular Window</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Text</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Straight Arrow</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Curved Arrow</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Door Frame Lines</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Door Handle</string>
+    </property>
+   </item>
+   <item>
+    <property name="text">
+     <string>Door Foorplate</string>
+    </property>
+   </item>
+  </widget>
+  <zorder>graphicsView</zorder>
+  <zorder>resetImage</zorder>
+  <zorder>prevImage</zorder>
+  <zorder>nextImage</zorder>
+  <zorder>feature</zorder>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

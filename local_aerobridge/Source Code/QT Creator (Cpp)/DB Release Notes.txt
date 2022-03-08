@@ -1,0 +1,16 @@
+[imageDialog.cpp]
+Write to DB
+four_points
+many points
+text_points
+make it generic
+add enum for no of points and colors
+
+[showpoints.cpp]
+Read from DBPlot Lines
+Plot Arrows
+Plot Circle
+add enum for no of points and colors
+
+[mainwindow.cpp]
+Compare from DB, Generic DB Read

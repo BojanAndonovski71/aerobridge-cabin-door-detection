@@ -1,0 +1,110 @@
+Flight,Image,Parameter,Condition,Result
+ANAB787,000199.png,text1,Vote,8
+ANAB787,000199.png,text1,Relative Distance,False
+ANAB787,000199.png,text2,Vote,1
+ANAB787,000199.png,text2,Relative Distance,True
+ANAB787,000199.png,text3,Vote,1
+ANAB787,000199.png,text3,Relative Distance,True
+ANAB787,000199.png,rectangularwindow1,Vote,1
+ANAB787,000199.png,rectangularwindow1,Relative Distance,True
+ANAB787,000199.png,text4,Vote,3
+ANAB787,000199.png,text4,Relative Distance,True
+ANAB787,000199.png,doorframelines2,Vote,3
+ANAB787,000199.png,doorframelines2,Relative Distance,True
+ANAB787,000199.png,doorframelines1,Vote,2
+ANAB787,000199.png,doorframelines1,Relative Distance,True
+ANAB787,000199.png,doorfootplate1,Vote,2
+ANAB787,000199.png,doorfootplate1,Relative Distance,True
+ANAB787,000199.png,doorhandle1,Vote,1
+ANAB787,000199.png,doorhandle1,Relative Distance,True
+ANAB787,000199.png,text1,Between DFL,False
+ANAB787,000199.png,text2,Between DFL,True
+ANAB787,000199.png,text3,Between DFL,True
+ANAB787,000199.png,rectangularwindow1,Between DFL,True
+ANAB787,000199.png,text4,Between DFL,False
+ANAB787,000199.png,doorframelines2,Between DFL,True
+ANAB787,000199.png,doorframelines1,Between DFL,True
+ANAB787,000199.png,doorfootplate1,Between DFL,True
+ANAB787,000199.png,doorhandle1,Between DFL,True
+ANAB787,000199.png,text1,Right DFL,False
+ANAB787,000199.png,text2,Right DFL,True
+ANAB787,000199.png,text3,Right DFL,True
+ANAB787,000199.png,rectangularwindow1,Right DFL,True
+ANAB787,000199.png,text4,Right DFL,True
+ANAB787,000199.png,doorframelines2,Right DFL,True
+ANAB787,000199.png,doorframelines1,Right DFL,True
+ANAB787,000199.png,doorfootplate1,Right DFL,True
+ANAB787,000199.png,doorhandle1,Right DFL,True
+ANAB787,000199.png,text1,Left DFL,False
+ANAB787,000199.png,text2,Left DFL,True
+ANAB787,000199.png,text3,Left DFL,True
+ANAB787,000199.png,rectangularwindow1,Left DFL,True
+ANAB787,000199.png,text4,Left DFL,False
+ANAB787,000199.png,doorframelines2,Left DFL,True
+ANAB787,000199.png,doorframelines1,Left DFL,True
+ANAB787,000199.png,doorfootplate1,Left DFL,True
+ANAB787,000199.png,doorhandle1,Left DFL,True
+ANAB787,000199.png,text1,Above Footplate,False
+ANAB787,000199.png,text2,Above Footplate,True
+ANAB787,000199.png,text3,Above Footplate,True
+ANAB787,000199.png,rectangularwindow1,Above Footplate,True
+ANAB787,000199.png,text4,Above Footplate,False
+ANAB787,000199.png,doorframelines2,Above Footplate,False
+ANAB787,000199.png,doorframelines1,Above Footplate,True
+ANAB787,000199.png,doorfootplate1,Above Footplate,True
+ANAB787,000199.png,doorhandle1,Above Footplate,True
+ANAB787,000199.png,Rect Window,Above Handle,True
+ANAB787,000199.png,text1,Vote,5
+ANAB787,000199.png,text1,Final Ranking,False
+ANAB787,000199.png,text2,Vote,0
+ANAB787,000199.png,text2,Final Ranking,True
+ANAB787,000199.png,text3,Vote,0
+ANAB787,000199.png,text3,Final Ranking,True
+ANAB787,000199.png,rectangularwindow1,Vote,0
+ANAB787,000199.png,rectangularwindow1,Final Ranking,True
+ANAB787,000199.png,text4,Vote,3
+ANAB787,000199.png,text4,Final Ranking,False
+ANAB787,000199.png,doorframelines2,Vote,1
+ANAB787,000199.png,doorframelines2,Final Ranking,True
+ANAB787,000199.png,doorframelines1,Vote,0
+ANAB787,000199.png,doorframelines1,Final Ranking,True
+ANAB787,000199.png,doorfootplate1,Vote,0
+ANAB787,000199.png,doorfootplate1,Final Ranking,True
+ANAB787,000199.png,doorhandle1,Vote,0
+ANAB787,000199.png,doorhandle1,Final Ranking,True
+ANAB787,000199.png,text1,Group Remaining,False
+ANAB787,000199.png,text2,Group Remaining,True
+ANAB787,000199.png,text3,Group Remaining,True
+ANAB787,000199.png,rectangularwindow1,Group Remaining,True
+ANAB787,000199.png,text4,Group Remaining,False
+ANAB787,000199.png,doorframelines2,Group Remaining,True
+ANAB787,000199.png,doorframelines1,Group Remaining,True
+ANAB787,000199.png,doorfootplate1,Group Remaining,True
+ANAB787,000199.png,doorhandle1,Group Remaining,True
+ANAB787,000199.png,text1,Physical Dimension,False
+ANAB787,000199.png,text2,Physical Dimension,True
+ANAB787,000199.png,text3,Physical Dimension,True
+ANAB787,000199.png,rectangularwindow1,Physical Dimension,True
+ANAB787,000199.png,text4,Physical Dimension,False
+ANAB787,000199.png,doorframelines2,Physical Dimension,True
+ANAB787,000199.png,doorframelines1,Physical Dimension,True
+ANAB787,000199.png,doorfootplate1,Physical Dimension,True
+ANAB787,000199.png,doorhandle1,Physical Dimension,True
+ANAB787,000199.png,text1,Vote,17
+ANAB787,000199.png,text1,Physical Relative Distance,False
+ANAB787,000199.png,text2,Vote,8
+ANAB787,000199.png,text2,Physical Relative Distance,True
+ANAB787,000199.png,text3,Vote,8
+ANAB787,000199.png,text3,Physical Relative Distance,True
+ANAB787,000199.png,rectangularwindow1,Vote,5
+ANAB787,000199.png,rectangularwindow1,Physical Relative Distance,True
+ANAB787,000199.png,text4,Vote,12
+ANAB787,000199.png,text4,Physical Relative Distance,True
+ANAB787,000199.png,doorframelines2,Vote,9
+ANAB787,000199.png,doorframelines2,Physical Relative Distance,True
+ANAB787,000199.png,doorframelines1,Vote,5
+ANAB787,000199.png,doorframelines1,Physical Relative Distance,True
+ANAB787,000199.png,doorfootplate1,Vote,5
+ANAB787,000199.png,doorfootplate1,Physical Relative Distance,True
+ANAB787,000199.png,doorhandle1,Vote,4
+ANAB787,000199.png,doorhandle1,Physical Relative Distance,True
